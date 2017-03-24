@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\yuks\.android\build-cache\94d39a98688b04ab173a2bf753446181d7f8eabc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\yuks\Projets\BD\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b3602cb6393a9aa11026a2a5c176b0291304f287\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yuks\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\yuks\Projets\BD\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_504fe0b817655f2587ccd6942322c2c9c4698c13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yuks\Projets\BD\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\yuks\Projets\BD\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_fa6c1d0367cf014706589acdd92945da1cd9330c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yuks\.android\build-cache\2471fb308e80da109333bdf12ecb1ee2a1310309\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\yuks\Projets\BD\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cd479be222a9c374ae219e7b454ac2791ae173d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yuks\.android\build-cache\90d6f79bc3a440f9b5215f721bf1111925913dbc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\yuks\Projets\BD\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b4a8d026e54d0b0c1c6a1b148081dbc05a94ad35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yuks\.android\build-cache\32aba35bf1bb43efb80b97735d681bee94744319\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\yuks\Projets\BD\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c8f76ffdec42c855bc6a50ebf77fb694cdb99078\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yuks\.android\build-cache\5df907854b0c08bbba225308f76fc77a71d1319c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\yuks\Projets\BD\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_30da9da1b585233ba616ab08a87641e8ec3b1011\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yuks\.android\build-cache\6df7fb61539d61162ba9ad2e125945a5024d2b2e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\yuks\Projets\BD\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d37d06ee5a93fbd46bca8f93776b2aaceef8c264\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yuks\.android\build-cache\b549b6164aa5b77fd74f5527b889e76a5f26b8bf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\yuks\Projets\BD\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_77154b371e747655b2b8281af173f8418ba451d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yuks\.android\build-cache\4b17a705c9cd28cd102d11225e95d0d2ef3cea3b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\yuks\Projets\BD\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_de2ec344d1592f9385430e15ff1f59b956c0e675\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yuks\Projets\BD\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2509d8fc4787dbebf8cf91a9de2d06ef34b09eab">
+        <dex dex="C:\Users\yuks\Projets\BD\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9715bf02ed7df06fbe71756b418c104f25dc6e77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yuks\.android\build-cache\c64063e346b5837a815825b87b1f62b73d67aef2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\yuks\Projets\BD\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9d58f8ae7ad7aba3d4933c58d612d0f19b90f40a\classes.dex" />
+    </item>
+
+</items>

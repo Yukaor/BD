@@ -19,7 +19,8 @@
         android:id="@+id/imageView"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="20dp" />
+        android:layout_marginTop="20dp"
+        android:contentDescription="" />
 
     <TextView
         android:text="MadMaxi Jack"
@@ -32,30 +33,28 @@
         android:layout_centerHorizontal="true" />
 
     <Button
-        android:text="Button"
+        android:text="Nouvelle partie"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="50dp"
-        android:id="@+id/button1"
-        android:layout_below="@+id/textView"
+        android:id="@+id/newButton"
+        android:layout_centerVertical="true"
         android:layout_centerHorizontal="true" />
 
     <Button
-        android:text="Button"
+        android:text="Continuer"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="100dp"
-        android:id="@+id/button2"
-        android:layout_below="@+id/textView"
-        android:layout_centerHorizontal="true" />
+        android:id="@+id/resumeButton"
+        android:layout_below="@+id/newButton"
+        android:layout_alignEnd="@+id/imageView" />
 
     <Button
-        android:text="Button"
+        android:text="Copyrights"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="250dp"
-        android:id="@+id/button3"
-        android:layout_below="@+id/textView"
+        android:id="@+id/copyrightsButton"
+        android:layout_marginBottom="35dp"
+        android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true" />
 
 
