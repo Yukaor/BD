@@ -16,55 +16,17 @@
 
     <ImageView
         android:id="@+id/imageView"
-<<<<<<< HEAD
         android:layout_width="295dp"
         android:layout_height="166dp"
         android:layout_marginStart="29dp"
         android:layout_marginTop="25dp"
         app:srcCompat="@android:drawable/alert_light_frame" />
-=======
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="20dp"
-        android:contentDescription="" />
->>>>>>> 0a6cf3281e98f8cfb36859efc4549076d9b31552
+
 
     <TextView
         android:id="@+id/textView"
-<<<<<<< HEAD
         android:layout_width="330dp"
         android:layout_height="194dp"
         android:text="TextView" />
-=======
-        android:layout_marginTop="40dp"
-        android:layout_below="@+id/imageView"
-        android:layout_centerHorizontal="true" />
-
-    <Button
-        android:text="Nouvelle partie"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/newButton"
-        android:layout_centerVertical="true"
-        android:layout_centerHorizontal="true" />
-
-    <Button
-        android:text="Continuer"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/resumeButton"
-        android:layout_below="@+id/newButton"
-        android:layout_alignEnd="@+id/imageView" />
-
-    <Button
-        android:text="Copyrights"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/copyrightsButton"
-        android:layout_marginBottom="35dp"
-        android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true" />
-
->>>>>>> 0a6cf3281e98f8cfb36859efc4549076d9b31552
 
 </LinearLayout>
