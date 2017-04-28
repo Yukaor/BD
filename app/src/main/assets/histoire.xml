@@ -1,20 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <histoire name="MadMaxiJack" author="BECK">
-		<vignette id="1"><!-- page 1-->
+		<vignette id="1">
 			<texte>
 				Maxi-Jack coule des jours heureux une fois de plus, mais une soudaine intuition le pousse à penser qu'il ne profitera pas ces moments bénis trop longtemps.
 			</texte>
 		</vignette>
 		<vignette id="2">
 			<texte>
-				Car, suite à une négligence humaine, la planète subit des dommages irréversibles au niveau écologique et en terme d'organisation de la société également..			</texte>
+				Car, suite à une négligence humaine, la planète subit des dommages irréversibles au niveau écologique et en terme d'organisation de la société également..
+			</texte>
 		</vignette>
 		<vignette id="3">
 			<texte>
 				Bref GO MADMAXI-JACK ! Bats-toi pour ta survie.
 			</texte>
 		</vignette>
-		<vignette id="4"><!-- page 2-->
+		<vignette id="4">
 			<texte>
 				Bon, vous vous doutez du topo... Grands espaces dévastées, bandes de psychopates lourdement armés tyrannisant de pauvres villageois, créatures mutantes et tout le tintouin. Tout cela assosié à une toute nouvelle charte graphique.
 			</texte>
@@ -38,7 +39,7 @@
 				Fouiller ses poches
 			</choix>
 		</vignette>
-		<vignette id="7"><!-- page 3-->
+		<vignette id="7">
 			<texte>
 				Cette boue semble succulente. Madmaxi la consomme et est immédiatement rassasié.
 			</texte>
@@ -62,7 +63,7 @@
 				Se l'étaler sur le corps dans un spasme régressif
 			</choix>
 		</vignette>
-		<vignette id="10"><!-- page 4-->
+		<vignette id="10">
 			<texte>
 				Qui renierait ? rogner l'écorce d'un arbre radioactif après un jeûne forcé de trois semaines ? Certainement pas notre héros pour qui la survie est désormais élevée au rang d'art de vivre.
 			</texte>
@@ -86,7 +87,7 @@
 				Hé ! Des traces de v?hicules !
 			</choix>
 		</vignette>
-		<vignette id="13"><!-- page 5-->
+		<vignette id="13">
 			<texte>
 				Mouais... Madmaxi fouille ses poches, mais bon évidemment y'a que dalle.
 			</texte>
@@ -107,7 +108,7 @@
 				Il n'a plus rien à perdre, il y va !
 			</choix>
 		</vignette>
-		<vignette id="16"><!-- page 6-->
+		<vignette id="16">
 			<texte>
 				A quoi bon se faire chier ? trimballer de la bouffe quand on à déja tout sur place ? En ces temps troublés la logique et la survie se sont fondues en un sul et même concept.
 			</texte>
@@ -122,7 +123,7 @@
 				Mais un groupe de punks désoeuvrés le repèrent et lui font la peau. Dans un monde post-apocalyptique les sédentaires sont des proies faciles Madmaxi-Jack, tu l'a appris à tes dépends. Mais tu es mort, tu ne pourras donc pas mettre en pratique me fruit de cet apprentissage.
 			</texte>
 		</vignette>
-		<vignette id="19"><!-- page 7-->
+		<vignette id="19">
 			<texte>
 				Madmaxi-Jack dispose d'un petit sac en peau de rat qu'il rempli de cette boue nutritive, puis il avance fièrement vers sa destinée.
 			</texte>
@@ -140,7 +141,7 @@
 				Appâter l'animal avec la boue.
 			</choix>
 		</vignette>
-		<vignette id="22"><!-- page 8-->
+		<vignette id="22">
 			<texte>
 				Cette boue évoque à Madmaxi-Jack de lointains souvenirs liés à sa mère aux premiers instants des cellules aquatiques dont il est issu.
 			</texte>
@@ -164,7 +165,7 @@
 				Il trace sa route.
 			</choix>
 		</vignette>
-		<vignette id="25"><!-- page 9-->
+		<vignette id="25">
 			<texte>
 				L'arc bandé au maximum de ses possibilités, les muscles saillants, l'oeil aux aguets, Madmaxi Jack ajuste sa cible... Les chances de survie du mustellidé sont à cet instant évaluée à 0,7%.
 			</texte>
@@ -188,7 +189,7 @@
 				Sable dans les yeux.
 			</choix>
 		</vignette>
-		<vignette id="28"><!-- page 10-->
+		<vignette id="28">
 			<texte>
 				Un vieillard en difficulté se tient au milieu du chemin. Une proie facile qui transporte peut-être quelques objets de valeur, se dit Madmaxi-Jack.
 			</texte>
@@ -211,7 +212,7 @@
 			</choix>
 		</vignette>
 
-		<vignette id="31"><!-- page 11-->
+		<vignette id="31">
 			<texte>
 				Madmaxi-Jack suit les traces du véhicule. Mais au bout d'un moment, il se rend compte qu'il s'enfonce dans des sables mouvants.
 			</texte>
@@ -236,7 +237,7 @@
 			</choix>
 		</vignette>
 
-		<vignette id="34"><!-- page 12-->
+		<vignette id="34">
 			<texte>
 				Madmaxi-Jack n'est plus que l'ombre de lui-même, notre héros intrépide doit maintenant pour assurer sa survie, fureter autour d'un campement de gros majes pour trouver quelques hypothètiques aliments et médors, tout en évitant soignesement les punks en meilleur condition physique que lui.
 			</texte>
@@ -254,7 +255,7 @@
 			</texte>
 		</vignette>
 
-		<vignette id="37"><!-- page 13-->
+		<vignette id="37">
 			<texte>
 				Mettant ses angoisses et son égo de côté, notre héros se dirige vers un garde du campement afin d'expliquer sa situation et de plaider sa cause.
 			</texte>

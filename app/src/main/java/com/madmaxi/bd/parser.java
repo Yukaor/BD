@@ -16,10 +16,11 @@ public class parser {
         {
             Element Vignette = (Element)Vignettes.item(i);
 
-            if (Vignette.getAttribute("id").equals(id));
+            if (Vignette.getAttribute("id").equals(id))
             {
-                String string = Vignette.getChildNodes().item(1).getTextContent().replace("/r","");
-                string = Vignette.getChildNodes().item(1).getTextContent().replace("\n","");
+                String string = Vignette.getChildNodes().item(1).getTextContent().replace("\r","");
+                string = string.replace("\n","");
+                string = string.replace("\t","");
                 return string;
             }
         }

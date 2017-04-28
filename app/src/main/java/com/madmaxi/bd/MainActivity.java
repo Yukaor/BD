@@ -20,6 +20,7 @@ import javax.xml.parsers.DocumentBuilderFactory;
 
 public class MainActivity extends AppCompatActivity {
 
+    Document doc;
     TextView texteView;
     ImageView imageView;
     Button next;
@@ -35,28 +36,39 @@ public class MainActivity extends AppCompatActivity {
         imageView = (ImageView) findViewById(R.id.imageView);
         next = (Button) findViewById(R.id.button);
 
+        //Parse
+        AssetManager assetManager = getAssets();
+        InputStream inputStream = null;
+        this.doc=null;
+        try {
+            inputStream = assetManager.open("histoire.xml");
+            this.doc= parseXML(inputStream);
+        } catch (IOException e) {
+            Log.e("tag", "groooooooooooooooooooooooooooooooooooooos bug ***********************************************************************************************************"+e.getMessage());
+        }
+
+        if (null!=this.doc) {
+            init();
+        }else{
+            Log.e("tag","Document dom NULL!!!!!!!!!!!!!!!!!!!!!! ");
+        }
+
         //Lorsque l'on appuie sur le bouton next, on change l'id de vignette.
         next.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v)
             {
                 Vignette += 1;
-                
-                        
+                init();
             }
         });
 
-        AssetManager assetManager = getAssets();
-        InputStream inputStream = null;
-        Document doc=null;
-        try {
-            inputStream = assetManager.open("histoire.xml");
-             doc= parseXML(inputStream);
-            String textVignette = parser.getTextAtId(doc, ((String) Vignette));
-            texteView.setText(textVignette);
-        } catch (IOException e) {
-            Log.e("tag", e.getMessage());
-        }
+    }
+
+    public void init()
+    {
+        String textVignette = parser.getTextAtId(this.doc,Integer.toString(Vignette));
+        texteView.setText(textVignette);
     }
 
     public Document parseXML(InputStream source) {
